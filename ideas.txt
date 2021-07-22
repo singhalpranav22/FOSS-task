@@ -6,3 +6,7 @@ Geekheaven can work on a social network for inter and intra wing communication a
 Medha Tiwari
 IEC2020063
 If possible we can work on erp_portal 2.0
+
+Taniya Gupta 
+IEC2020017
+We can develop an app for effective interaction in college as Whatsapp is such a mess and mails are too formal.
