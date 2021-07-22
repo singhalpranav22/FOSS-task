@@ -6,3 +6,6 @@ Because Open Source is the best thing I like about software. The fact that I can
 
 # SECTION 3: WHAT TECHNOLOGIES HAVE I WORKED ON IN THE PAST?
 I have worked on HTML, CSS, JavaScript, Java, Python and SQL.
+
+# SECTION 4: PROJECTS
+I worked on a number of projects in the past but I was not active on GitHub back then, so I do not have them saved on repositories. I lost those projects when I switched laptops a while ago as they were only trial projects.
