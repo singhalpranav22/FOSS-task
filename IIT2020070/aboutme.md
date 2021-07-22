@@ -5,3 +5,6 @@ IT
 
 ## Section 2
 I am earnestly interested in open source and want to learn and achieve more in it, being in FOSS wing can help me move forward in open source and also pass my learnings to juniors.
+
+## Section 3
+I have worked with Android (Java/Kotlin) , React.js and also know languages like C++ , C and python.
