@@ -48,7 +48,3 @@ Oh, so you are following along! :joy:
 Ahh! No ideas.
 Fix GeekHaven's site. Or I may perhaps, become the Overall Coordinator again :joy:
 NO I AIN'T DOING THAT!!!
-
-Pankaj Kumar
-IIT2020171
-A machine learning model to recommend what next step a student could take to increment his/her skillset based on his current progress (could be limited to IIITA students to track themselves).
