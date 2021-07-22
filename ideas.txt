@@ -52,3 +52,7 @@ NO I AIN'T DOING THAT!!!
 Deepanshu Mahto
 IEC2020049
 we can add a feature in the sembreaker app that allows user to download the materials as pdf directly to the phone to allow smooth sharing and viewing in on a pc/laptop. currently it only views the materials in the app after downloading , this makes it unnable to see the material of sembreaker app on a pc/laptop.
+
+Kirti
+IIT2020142
+Create a random chatting app for introverts so that can have a talk seeing the online scenario.
