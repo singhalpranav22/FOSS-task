@@ -56,3 +56,8 @@ we can add a feature in the sembreaker app that allows user to download the mate
 Kirti
 IIT2020142
 Create a random chatting app for introverts so that can have a talk seeing the online scenario.
+
+Rahul Singh
+IIT2020176
+A good idea is to create an app that lets users know the availability status of facilities like auditorium, dance room, gym etc. and the future reservations.
+
