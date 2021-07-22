@@ -6,3 +6,7 @@ Geekheaven can work on a social network for inter and intra wing communication a
 Medha Tiwari
 IEC2020063
 If possible we can work on erp_portal 2.0
+
+Deepanshu Mahto
+IEC2020049
+We can introduce a new feature in sembreaker app to download materials directly on phone as pdf alss it becomes easier to share and view it on pc/laptops. Currently the notes are only viewable on the app
