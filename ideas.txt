@@ -7,6 +7,10 @@ Medha Tiwari
 IEC2020063
 If possible we can work on erp_portal 2.0
 
+Supriya Patidar
+IEC2020045
+Geekhaven can work on a cryptoexchange blockchain application.
+
 Shivanng Puri
 IEC2020035
 We can create a health app that lets the user enter their requirements, and prepares a diet chart for them and also recommend daily menu based on this diet.
