@@ -8,3 +8,8 @@ I am earnestly interested in open source and want to learn and achieve more in i
 
 ## Section 3
 I have worked with Android (Java/Kotlin) , React.js and also know languages like C++ , C and python.
+
+## Section 4
+https://github.com/Ekagra/PhishingDetection <br></br>
+https://github.com/Ekagra/fract <br></br>
+https://github.com/Ekagra/DomesticViolence
