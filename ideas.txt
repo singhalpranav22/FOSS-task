@@ -1,4 +1,20 @@
 
+Ekagra Sinha
+IIT2020070
+Geekheaven can work on a social network for inter and intra wing communication and resource sharing.
+
+Medha Tiwari
+IEC2020063
+If possible we can work on erp_portal 2.0
+
+Supriya Patidar
+IEC2020045
+Geekhaven can work on a cryptoexchange blockchain application.
+
+Shivanng Puri
+IEC2020035
+We can create a health app that lets the user enter their requirements, and prepares a diet chart for them and also recommend daily menu based on this diet.
+
 NAME: Gude Lakshmi
 ENROLMENT NO: IIT2020017
 IDEAS FOR PROJECT:
@@ -10,5 +26,3 @@ HOW IT CAN BE WORKED:
 • Juniors have access to ask questions and upvote. Only seniors will have access to answer the questions. This can be done by giving access according to the student IDs.
 • Website should be designed in such a way that it accepts only relevant questions and avoids abusive words.
 • The questions with more upvotes will be displayed on the home page.
-
-
