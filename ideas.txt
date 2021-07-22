@@ -1,5 +1,8 @@
+ ideas
 
 
+
+ ideas
 Ekagra Sinha
 IIT2020070
 Geekheaven can work on a social network for inter and intra wing communication and resource sharing.
@@ -40,6 +43,7 @@ Diya Waghmare
 IIT2020268
 -> A portal that makes students' experience of online college more simple and organized. It can display all important announcements and assignment deadlines semester-wise in one place so that students don't have to rely on WhatsApp groups for important information.
 -> A portal that displays students' journey in cc, development and other tech fields. It can show leaderboard, cc, cf rankings, github profile and other projects of each member to encourage others to take up new projects.
+ ideas
  
 ideas
 KIRTI
@@ -47,3 +51,12 @@ IIT2020142
 Projects:
 A random chatting app could be created so that the introverts can also have chat with some random people. We saw that in the online scenario many people were not able to interact it could be a great initiative
 
+
+
+Mitul Varshney
+IIT2020145
+Oh, so you are following along! :joy:
+Ahh! No ideas.
+Fix GeekHaven's site. Or I may perhaps, become the Overall Coordinator again :joy:
+NO I AIN'T DOING THAT!!!
+ideas
