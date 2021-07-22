@@ -14,3 +14,8 @@
 
 ## What technologies have I worked on in the past?
      Learned Web Dev : HTML, CSS, JavaScript.
+
+## Github projects Repo links 
+     Shehacks : https://github.com/taniya-27/SheHacks_Team-056
+     WebD-Selection : https://github.com/taniya-27/WebD-Selection
+     Tour_MH (Practice repo for website) : https://github.com/taniya-27/Tour_MH
