@@ -39,6 +39,11 @@ HOW IT CAN BE WORKED:
 • Website should be designed in such a way that it accepts only relevant questions and avoids abusive words.
 • The questions with more upvotes will be displayed on the home page.
 
+
+Taniya Gupta 
+IEC2020017
+We can develop an app for effective interaction in college as Whatsapp is such a mess and mails are too formal.
+
 Diya Waghmare
 IIT2020268
 -> A portal that makes students' experience of online college more simple and organized. It can display all important announcements and assignment deadlines semester-wise in one place so that students don't have to rely on WhatsApp groups for important information.
@@ -59,4 +64,6 @@ Oh, so you are following along! :joy:
 Ahh! No ideas.
 Fix GeekHaven's site. Or I may perhaps, become the Overall Coordinator again :joy:
 NO I AIN'T DOING THAT!!!
+ ideas
 ideas
+ ideas
