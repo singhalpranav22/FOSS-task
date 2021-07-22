@@ -1,8 +1,4 @@
- ideas
 
-
-
- ideas
 Ekagra Sinha
 IIT2020070
 Geekheaven can work on a social network for inter and intra wing communication and resource sharing.
@@ -16,8 +12,7 @@ If possible we can work on erp_portal 2.0
 Supriya Patidar
 IEC2020045
 Geekhaven can work on a cryptoexchange blockchain application.
-ideas
-ideas
+
 
 
 Shivanng Puri
@@ -50,12 +45,6 @@ IIT2020268
 -> A portal that displays students' journey in cc, development and other tech fields. It can show leaderboard, cc, cf rankings, github profile and other projects of each member to encourage others to take up new projects.
  ideas
  
-ideas
-KIRTI
-IIT2020142
-Projects:
-A random chatting app could be created so that the introverts can also have chat with some random people. We saw that in the online scenario many people were not able to interact it could be a great initiative
-
 
 
 Mitul Varshney
@@ -64,6 +53,7 @@ Oh, so you are following along! :joy:
 Ahh! No ideas.
 Fix GeekHaven's site. Or I may perhaps, become the Overall Coordinator again :joy:
 NO I AIN'T DOING THAT!!!
- ideas
-ideas
- ideas
+
+KIRTI
+IIT2020142
+Create a random chatting app for introverts, as many are not able to communicate with someone.
