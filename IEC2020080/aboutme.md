@@ -11,3 +11,9 @@ if they got selected, they continue otherwise they leave it or comment <b>"I wil
 should be like a hobby, we should feel fun while doing contributions, if you take it as a burden then
 better you leave it and never came back. I can describe more, but I will conclude this with <b>"To explain the real meaning
 and benefits of open-source to the community, I will like to join the FOSS wing."<b>
+
+###What technologies have you worked on in the past?
+I have worked on the following technologies / techStacks :
+1. Java
+2. Build management tools like maven or gradle
+3. C/C++
