@@ -1,8 +1,3 @@
- ideas
-KIRTI
-IIT2020142
-Projects:
-A random chatting app could be created so that the introverts can also have chat with some random people. We saw that in the online scenario many people were not able to interact it could be a great initiative
 
 
 Ekagra Sinha
@@ -26,3 +21,29 @@ Shivanng Puri
 IEC2020035
 We can create a health app that lets the user enter their requirements, and prepares a diet chart for them and also recommend daily menu based on this diet.
 ideas
+ideas
+
+
+NAME: Gude Lakshmi
+ENROLMENT NO: IIT2020017
+IDEAS FOR PROJECT:
+• There should be a question-and-answer platform where juniors can interact with their seniors.
+• Many students will have common doubts regarding their colleges, which cannot get clarified from any of the platforms such as Google and Quora. But few students may feel a little uncomfortable talking to their seniors. So here comes the need, A platform where juniors can interact with the seniors and get rendered about the stuff related to their college.
+• A website where questions would be asked, answered, followed, and upvoted.
+HOW IT CAN BE WORKED:
+• Juniors will come up with the questions.
+• Juniors have access to ask questions and upvote. Only seniors will have access to answer the questions. This can be done by giving access according to the student IDs.
+• Website should be designed in such a way that it accepts only relevant questions and avoids abusive words.
+• The questions with more upvotes will be displayed on the home page.
+
+Diya Waghmare
+IIT2020268
+-> A portal that makes students' experience of online college more simple and organized. It can display all important announcements and assignment deadlines semester-wise in one place so that students don't have to rely on WhatsApp groups for important information.
+-> A portal that displays students' journey in cc, development and other tech fields. It can show leaderboard, cc, cf rankings, github profile and other projects of each member to encourage others to take up new projects.
+ 
+ideas
+KIRTI
+IIT2020142
+Projects:
+A random chatting app could be created so that the introverts can also have chat with some random people. We saw that in the online scenario many people were not able to interact it could be a great initiative
+
