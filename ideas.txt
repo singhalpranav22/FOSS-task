@@ -56,3 +56,13 @@ we can add a feature in the sembreaker app that allows user to download the mate
 Neeraj Gupta
 IEC2020083
 We can make a platform where any senior/alumini can take an informal doubt/mentoring session in a small batch of per 30/40 students and the problem they are facing ,be it academic, learning technical stuff or any batch related and try to mentor them, as many students are shy and introverts and it's difficult for them to familarize in new domain 
+
+Kirti
+IIT2020142
+Create a random chatting app for introverts so that can have a talk seeing the online scenario.
+
+Rahul Singh
+IIT2020176
+A good idea is to create an app that lets users know the availability status of facilities like auditorium, dance room, gym etc. and the future reservations.
+
+
