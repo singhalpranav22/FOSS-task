@@ -49,6 +49,10 @@ Ahh! No ideas.
 Fix GeekHaven's site. Or I may perhaps, become the Overall Coordinator again :joy:
 NO I AIN'T DOING THAT!!!
 
+Deepanshu Mahto
+IEC2020049
+we can add a feature in the sembreaker app that allows user to download the materials as pdf directly to the phone to allow smooth sharing and viewing in on a pc/laptop. currently it only views the materials in the app after downloading , this makes it unnable to see the material of sembreaker app on a pc/laptop.
+
 Rahul Singh
 IIT2020176
 A good idea is to create an app that lets users know the availability status of facilities like auditorium, dance room, gym etc. and the future reservations.
