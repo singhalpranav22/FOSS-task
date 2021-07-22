@@ -3,7 +3,7 @@ KIRTI
 IIT2020142
 Projects:
 A random chatting app could be created so that the introverts can also have chat with some random people. We saw that in the online scenario many people were not able to interact it could be a great initiative
-=======
+
 
 Ekagra Sinha
 IIT2020070
@@ -15,8 +15,14 @@ IEC2020063
 If possible we can work on erp_portal 2.0 ideas
 If possible we can work on erp_portal 2.0
 
-
 Supriya Patidar
 IEC2020045
 Geekhaven can work on a cryptoexchange blockchain application.
+ideas
+ideas
+
+
+Shivanng Puri
+IEC2020035
+We can create a health app that lets the user enter their requirements, and prepares a diet chart for them and also recommend daily menu based on this diet.
 ideas
