@@ -1,3 +1,12 @@
+
+Ekagra Sinha
+IIT2020070
+Geekheaven can work on a social network for inter and intra wing communication and resource sharing.
+
+Medha Tiwari
+IEC2020063
+If possible we can work on erp_portal 2.0
+
 Diya Waghmare
 IIT2020268
 -> A portal that makes students' experience of online college more simple and organized. It can display all important announcements and assignment deadlines semester-wise in one place so that students don't have to rely on WhatsApp groups for important information.
