@@ -11,3 +11,6 @@
      Visited a lot of people's Github profile. 
      The social media of developers with interesting theme, stuff and git commands have attracted me.
      I am done with that Udemy course, **merged** and **squashed** a lot and now want to **rebase** me skills under the **FOSS** wing.
+
+## What technologies have I worked on in the past?
+     Learned Web Dev : HTML, CSS, JavaScript.
