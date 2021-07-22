@@ -12,5 +12,3 @@ HOW IT CAN BE WORKED:
 • The questions with more upvotes will be displayed on the home page.
 
 
-
-
