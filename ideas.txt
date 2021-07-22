@@ -47,13 +47,22 @@ IIT2020268
  
 
 
+Abhay Singh
+IEC2020080
+-> What about an application that will provide some information (resources) or experience about the palcement process of our seniors. It can have resources of what we should avoid and what we should prefer during our placements or internships.
+	We can also include some more features like constraining it only to IIITA students (except freshers) and there are lot which can be implemented. The only obstacle can be IIITA managment :((
+-> I will also wants to work on this feature request (https://github.com/GeekHaven/GeekHaven-2020/issues/28) of GeekHaven original website, it can be implement easily if I provided with a team. (may consider it as a project)
+
 Mitul Varshney
 IIT2020145
 Oh, so you are following along! :joy:
 Ahh! No ideas.
 Fix GeekHaven's site. Or I may perhaps, become the Overall Coordinator again :joy:
 NO I AIN'T DOING THAT!!!
+ ideas
 
 KIRTI
 IIT2020142
 Create a random chatting app for introverts, as many are not able to communicate with someone.
+
+
