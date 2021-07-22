@@ -15,5 +15,11 @@ and benefits of open-source to the community, I will like to join the FOSS wing.
 ###What technologies have you worked on in the past?
 I have worked on the following technologies / techStacks :
 1. Java
-2. Build management tools like maven or gradle
-3. C/C++
+2. C/C++
+3. Build management tools like maven or gradle
+
+###Projects by me : <b>NONE</b>
+
+###Projects in which I contributed or I was a group member :
+1. <a href="https://github.com/castor-software/depclean">My GSoC project</a>
+2. <a href = "https://github.com/ABHAY0O7/xTracker" >An incomplete application by my team :))</a>
