@@ -9,3 +9,17 @@ What technologies have you worked on in the past?
 I have worked on the following technologies in the past :-
 1) HTML, CSS, JS
 2) Python,C++
+
+Mention all the projects created by you individually or in a group with GitHub Repository links in this section.
+
+E-Commerce Website:
+A responsive website that has multiple product categories,
+checkout options, buying and payment forms and stores the
+data submitted by the user.
+https://codelord09.github.io/E_Commerce-Website/
+
+
+COVID-19 Dashboard:
+A dashboard that displays the real time data, along with
+multiple pages, pertaining to Corona disease.
+https://codelord09.github.io/WebD-Selection/
