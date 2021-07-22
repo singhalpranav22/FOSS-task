@@ -48,3 +48,7 @@ Oh, so you are following along! :joy:
 Ahh! No ideas.
 Fix GeekHaven's site. Or I may perhaps, become the Overall Coordinator again :joy:
 NO I AIN'T DOING THAT!!!
+
+Rahul Singh
+IIT2020176
+A good idea is to create an app that lets users know the availability status of facilities like auditorium, dance room, gym etc. and the future reservations.
