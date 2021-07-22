@@ -1,0 +1,4 @@
+KIRTI
+IIT2020142
+Projects:
+A random chatting app could be created so that the introverts can also have chat with some random people. We saw that in the online scenario many people were not able to interact it could be a great initiative
