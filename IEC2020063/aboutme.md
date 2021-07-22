@@ -10,3 +10,6 @@
 The main motive for joining FOSS wing is that make we as a group or an organization can contribute a lot to this world and make it a happy place!
 
 
+##Section 3
+###Technologies : C, C++ , HTML, JavaScript, Python
+###Tools : Git, Github
