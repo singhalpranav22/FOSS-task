@@ -26,3 +26,8 @@ HOW IT CAN BE WORKED:
 • Juniors have access to ask questions and upvote. Only seniors will have access to answer the questions. This can be done by giving access according to the student IDs.
 • Website should be designed in such a way that it accepts only relevant questions and avoids abusive words.
 • The questions with more upvotes will be displayed on the home page.
+
+Diya Waghmare
+IIT2020268
+-> A portal that makes students' experience of online college more simple and organized. It can display all important announcements and assignment deadlines semester-wise in one place so that students don't have to rely on WhatsApp groups for important information.
+-> A portal that displays students' journey in cc, development and other tech fields. It can show leaderboard, cc, cf rankings, github profile and other projects of each member to encourage others to take up new projects.
