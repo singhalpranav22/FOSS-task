@@ -19,3 +19,19 @@ Deepanshu Mahto
 IEC2020049
 We can introduce a new feature in sembreaker app to download materials directly on phone as pdf alsO it becomes easier to share and view it on pc/laptops. Currently the notes are only viewable on the app
 
+NAME: Gude Lakshmi
+ENROLMENT NO: IIT2020017
+IDEAS FOR PROJECT:
+• There should be a question-and-answer platform where juniors can interact with their seniors.
+• Many students will have common doubts regarding their colleges, which cannot get clarified from any of the platforms such as Google and Quora. But few students may feel a little uncomfortable talking to their seniors. So here comes the need, A platform where juniors can interact with the seniors and get rendered about the stuff related to their college.
+• A website where questions would be asked, answered, followed, and upvoted.
+HOW IT CAN BE WORKED:
+• Juniors will come up with the questions.
+• Juniors have access to ask questions and upvote. Only seniors will have access to answer the questions. This can be done by giving access according to the student IDs.
+• Website should be designed in such a way that it accepts only relevant questions and avoids abusive words.
+• The questions with more upvotes will be displayed on the home page.
+
+Diya Waghmare
+IIT2020268
+-> A portal that makes students' experience of online college more simple and organized. It can display all important announcements and assignment deadlines semester-wise in one place so that students don't have to rely on WhatsApp groups for important information.
+-> A portal that displays students' journey in cc, development and other tech fields. It can show leaderboard, cc, cf rankings, github profile and other projects of each member to encourage others to take up new projects.
