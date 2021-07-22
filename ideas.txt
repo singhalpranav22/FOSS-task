@@ -7,6 +7,15 @@ Medha Tiwari
 IEC2020063
 If possible we can work on erp_portal 2.0
 
+Supriya Patidar
+IEC2020045
+Geekhaven can work on a cryptoexchange blockchain application.
+
+Shivanng Puri
+IEC2020035
+We can create a health app that lets the user enter their requirements, and prepares a diet chart for them and also recommend daily menu based on this diet.
+
 Deepanshu Mahto
 IEC2020049
-We can introduce a new feature in sembreaker app to download materials directly on phone as pdf alss it becomes easier to share and view it on pc/laptops. Currently the notes are only viewable on the app
+We can introduce a new feature in sembreaker app to download materials directly on phone as pdf alsO it becomes easier to share and view it on pc/laptops. Currently the notes are only viewable on the app
+
