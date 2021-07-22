@@ -26,22 +26,25 @@ HOW IT CAN BE WORKED:
 • Website should be designed in such a way that it accepts only relevant questions and avoids abusive words.
 • The questions with more upvotes will be displayed on the home page.
 
+
+Taniya Gupta 
+IEC2020017
+We can develop an app for effective interaction in college as Whatsapp is such a mess and mails are too formal.
+
 Diya Waghmare
 IIT2020268
 -> A portal that makes students' experience of online college more simple and organized. It can display all important announcements and assignment deadlines semester-wise in one place so that students don't have to rely on WhatsApp groups for important information.
 -> A portal that displays students' journey in cc, development and other tech fields. It can show leaderboard, cc, cf rankings, github profile and other projects of each member to encourage others to take up new projects.
 
-<<<<<<< HEAD
 Abhay Singh
 IEC2020080
 -> What about an application that will provide some information (resources) or experience about the palcement process of our seniors. It can have resources of what we should avoid and what we should prefer during our placements or internships.
 	We can also include some more features like constraining it only to IIITA students (except freshers) and there are lot which can be implemented. The only obstacle can be IIITA managment :((
 -> I will also wants to work on this feature request (https://github.com/GeekHaven/GeekHaven-2020/issues/28) of GeekHaven original website, it can be implement easily if I provided with a team. (may consider it as a project)
-=======
+
 Mitul Varshney
 IIT2020145
 Oh, so you are following along! :joy:
 Ahh! No ideas.
 Fix GeekHaven's site. Or I may perhaps, become the Overall Coordinator again :joy:
 NO I AIN'T DOING THAT!!!
->>>>>>> 48c089a4d95bd61ec45445adc07c4e612c1e33bb
