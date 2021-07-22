@@ -9,3 +9,5 @@ I will serve the Open-Source Community and will contribute to elevating the FOSS
 
 I have worked in git,github,c,c++ and HTML.
 
+I have a repository on my github which contains my solutions CP problems that i have solved on various cc websites
+ -> Competitive Programming Solutions : https://github.com/mahtodeepanshu/Competitive-Programming-Solutions
