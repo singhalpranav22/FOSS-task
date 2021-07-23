@@ -83,3 +83,7 @@ Some ideas are:-
 Pankaj Kumar
 IIT2020171
 A machine learning model to recommend what next step a student could take to increment his/her skillset based on his current progress (could be limited to IIITA students to track themselves).
+
+Aashita Chouhan
+IIT2020124
+We can improve College website since its slow in its working.
