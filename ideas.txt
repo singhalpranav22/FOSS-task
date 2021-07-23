@@ -4,7 +4,7 @@ Geekheaven can work on a social network for inter and intra wing communication a
 
 Medha Tiwari
 IEC2020063
-If possible we can work on erp_portal 2.0
+If possible we can work on erp_portal 2.
 
 Supriya Patidar
 IEC2020045
@@ -26,6 +26,13 @@ HOW IT CAN BE WORKED:
 • Website should be designed in such a way that it accepts only relevant questions and avoids abusive words.
 • The questions with more upvotes will be displayed on the home page.
 
+
+Kunal Kaushik
+IEC2020068
+IDEA: An app/website where people can post their project ideas and the intrested one's would connect and work upon that project together.
+MOTIVE: 
+·Our college is fairly huge to know which person is working upon or thinking about any project.It's better to have a companion in journey than to be alone.
+·It would  be helpful in their placements as both can show the project in thier resume.
 
 Taniya Gupta 
 IEC2020017
